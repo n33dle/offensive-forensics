@@ -1,1 +1,2 @@
 SECRET_KEY = 'AKLEfN320R3Ar9J31KJ3N4fq#(J921409J41#d(jD3'
+mongodb://god:securepword@127.0.0.1:33767/securedb
